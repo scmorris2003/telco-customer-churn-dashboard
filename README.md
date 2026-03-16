@@ -18,11 +18,14 @@ GitHub: [yourusername/telco-customer-churn-dashboard](https://github.com/youruse
 ### Overview & KPIs
 ![Overview KPIs](screenshots/overview.png)
 
-### Retention Curve with Regime Break
-![Retention Curve](screenshots/retention-regime.png)
+### Churn Types
+![Churn Types](screenshots/churn_type_distribution.png)
 
-### Forecasting Section
-![Forecast](screenshots/forecast.png)
+### Retention Curve with Regime Break
+![Retention Curve](screenshots/regime_change.png)
+
+### Insights & Forecasting Section
+![Forecast](screenshots/insights_alters_forecast.png)
 
 (Add more — see below on how to take them)
 
