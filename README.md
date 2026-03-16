@@ -2,8 +2,7 @@
 
 Interactive Streamlit app analyzing customer churn patterns, retention cohorts, statistical regime changes, and acquisition forecasting (tenure proxy).
 
-Live Demo: [https://your-deployed-url-here.streamlit.app](https://...) (add once deployed)  
-GitHub: [yourusername/telco-customer-churn-dashboard](https://github.com/yourusername/telco-customer-churn-dashboard)
+GitHub: [scmorris2003/telco-customer-churn-dashboard](https://github.com/scmorris2003/telco-customer-churn-dashboard)
 
 ## Features
 - KPI metrics (churn rate, avg tenure, etc.)
@@ -42,5 +41,3 @@ GitHub: [yourusername/telco-customer-churn-dashboard](https://github.com/youruse
 
 ## Business Value
 Demonstrates ability to build high-visibility dashboards for customer growth/experience trends, detect regressions via structural breaks, generate statistically-backed action items, and forecast acquisition — aligned with analytics & monitoring roles.
-
-Questions? Open an issue or DM @someotherdude99 on X.
